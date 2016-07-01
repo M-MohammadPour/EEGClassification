@@ -1,0 +1,9 @@
+Implementation of EEG signal classification.
+
+This program has two stages:
+
+First Stage is feature extraction method using Autoregression (AR), Common Spatial Pattern (CSP), Discrete Wavelet Transform (DWT) and Power Spectral Density (PSD).
+
+Second stage is classification of extracted features using Bagging, Boosting and AdaBoost methods.
+
+
